@@ -1,0 +1,7 @@
+atividade,produto,horas
+usinagem,carrinho,0.25
+usinagem,triciclo,0.5
+pintura,carrinho,0.1
+pintura,triciclo,0.75
+montagem,carrinho,0.1
+montagem,triciclo,0.4
